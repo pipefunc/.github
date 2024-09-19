@@ -4,3 +4,5 @@ pipefunc is a Python library that simplifies function composition and pipeline c
 
 Repo: https://github.com/pipefunc/pipefunc
 Docs: https://pipefunc.readthedocs.io/
+
+![](https://user-images.githubusercontent.com/6897215/253785642-cf2a6941-2ea6-41b0-8225-b3e52e94c4de.png)
