@@ -1,6 +1,6 @@
 # [PipeFunc](https://github.com/pipefunc/pipefunc): Automate Python DAGs for Scientific Workflows - From Local to HPC with N-D Parameter Sweeps
 
-[![Discord](https://img.shields.io/discord/1320459922596565103.svg?label=Discord&logo=discord)](https://discord.gg/cBbxusZR)
+[![Discord](https://img.shields.io/discord/1320459922596565103.svg?label=Discord&logo=discord)](https://discord.gg/wUXg2drsNN)
 
 pipefunc is a Python library that simplifies function composition and pipeline creation for scientific computing and data processing.
 It automatically generates DAGs from Python functions, efficiently handles N-dimensional parameter sweeps, and scales seamlessly from local to HPC environments.
